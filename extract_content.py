@@ -134,6 +134,7 @@ try:
         print(f"  Parcel: {prop['parcel_number']}")
         print(f"  Address: {prop['address']}")
         print(f"  Description: {prop['description']}")
-    
+
+  
 finally:
     driver.quit()
