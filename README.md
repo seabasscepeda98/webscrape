@@ -1,4 +1,4 @@
 # webscrape
-Tax Deed Webscrape Project
+Tax Deed Auction Webscrape
 
-This project utilizes the Selenium python library to automate website interaction by collecting and sorting tax deed data from subsites of putnamclerk.com on a monthly to semi-monthly basis. The script navigates through multiple dynamic PHP based web pages and JavaScript disclaimer prompts to access, copy and output relevant data into a single XLSX spreadsheet for further analysis and filtration.
+This app uses Selenium to automate website interaction by collecting and sorting property data from subsites of the Putnam county clerk domain. The app navigates through PHP web pages and JavaScript prompts to load and extract relevant data into csv format for analysis. 
